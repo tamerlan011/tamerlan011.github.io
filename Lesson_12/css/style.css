@@ -1,0 +1,76 @@
+body{
+  font-family: 'Lemonada', cursive;
+  
+}
+.header{
+  font-style: 20px;
+  line-height: 1.5;
+  margin: 60px auto;
+  font-family: 'Lemonada', cursive;
+}
+.header span{
+  display: block;
+ 
+}
+.section{
+  padding: 20px 0;
+}
+
+.form{
+  
+    border: 5px solid  #0fbdba;
+    border-radius: 9px;
+    padding: 30px 20px;
+    height: 360px;
+    padding-top: 70px;
+  
+}
+.form input{
+   margin-bottom: 12px;
+}
+.form-header, .section-header{
+  font-style: 20px;
+  font-weight: 900;
+  margin-bottom: 30px;
+  font-family: 'Lemonada', cursive;
+
+}
+.section-header{
+  margin-top: 60px;
+}
+.video{
+  border: 5px solid  #0fbdba;
+  border-radius: 9px;
+  padding: 15px 10px;
+  margin-bottom: 30px;
+  
+}
+.form-btn{
+  margin: 12px auto;
+  background-color: #0fbdba;
+}
+.feature{
+  margin-top: 60px auto;
+}
+.feature p{
+margin-top: 20px;
+}
+.center-block {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.feature-box{
+  height: 160px;
+}
+.klients-box{
+  margin-bottom: 50px;
+  margin-top: 40px;
+  margin-left: 100px;
+  margin-right: 100px;
+
+}
+.img-box{
+  margin: 20px ;
+  
+}
